@@ -1,6 +1,7 @@
 p {
 color:black;
 text-align: center;
+font-size: 12px;
 
 }
 
@@ -9,7 +10,7 @@ background-image: url("https://i.etsystatic.com/11005779/r/il/7d7b76/3691831601/
 }
 
 h1 {
-font-size: 12px;
+font-size: 20px;
 color: black;
 text-align: center;
 }
@@ -24,5 +25,10 @@ img {
 width: auto;
 height: 20%;
 img-align:center;
+}
+
+a {
+    font-size: 12px;
+    text-align: center;
 }
 
