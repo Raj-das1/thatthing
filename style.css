@@ -1,5 +1,5 @@
 p {
-color:red;
+color:black;
 }
 
 body {
@@ -8,13 +8,13 @@ background-image: url("https://i.etsystatic.com/11005779/r/il/7d7b76/3691831601/
 
 h1 {
 font-size: 12px;
-color: green;
+color: black;
 text-align: center;
 }
 
 h2 {
 font-size: 24px;
-color: red;
+color: black;
 text-align: center;
 }
 
@@ -24,7 +24,3 @@ height: 20%;
 img-align:center;
 }
 
-.white-box {
-background-color: white;
-color: black;
-}
